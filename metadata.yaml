@@ -1,5 +1,5 @@
 _repo: Treasure-of-Triton_61872
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Bok, Hannes
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '51643'
     url: http://www.gutenberg.org/2009/agents/51643
     wikipedia: https://en.wikipedia.org/wiki/Hannes_Bok
+covers:
+- cover_type: archival
+  image_path: 61872-h/images/cover.jpg
 creator:
   author:
     agent_name: Baker, Charles A.
     gutenberg_agent_id: '51651'
     url: http://www.gutenberg.org/2009/agents/51651
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61872#Treasure-of-Triton
 gutenberg_issued: '2020-04-19'
 gutenberg_type: Text
 identifiers:
