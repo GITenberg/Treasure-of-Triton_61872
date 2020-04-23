@@ -1,0 +1,36 @@
+_repo: Treasure-of-Triton_61872
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bok, Hannes
+    alias: Woodard, Wayne Francis
+    birthdate: 1914
+    deathdate: 1964
+    gutenberg_agent_id: '51643'
+    url: http://www.gutenberg.org/2009/agents/51643
+    wikipedia: https://en.wikipedia.org/wiki/Hannes_Bok
+creator:
+  author:
+    agent_name: Baker, Charles A.
+    gutenberg_agent_id: '51651'
+    url: http://www.gutenberg.org/2009/agents/51651
+description: ''
+gutenberg_issued: '2020-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Jewel thieves -- Fiction'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Triton (Satellite) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Treasure of Triton
+url: http://www.gutenberg.org/ebooks/61872
